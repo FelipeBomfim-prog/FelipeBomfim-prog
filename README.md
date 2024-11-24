@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe+Bomfim;I'm+21+years+old;I'm+from+Brazil,+CE;I+study+Data+Science+at+UFC;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Felipe+Bomfim;I'm+21+years+old;I'm+from+CEARÁ,+BRAZIL;I+study+Data+Science+at+UFC;Be+Welcome!+:%29)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-bomfim-1075b5204/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:felipebomfim@alu.ufc.br)
